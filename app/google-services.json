@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502033537736",
+    "project_id": "test-firebase-f8728",
+    "storage_bucket": "test-firebase-f8728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502033537736:android:b9a37b36c45f00870fe3fd",
+        "android_client_info": {
+          "package_name": "com.tungduong.test_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzvAK5qligLiMJExLqLGvjo1wvszvbMFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
